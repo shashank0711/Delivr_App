@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.delivr">
    <application
-        android:label="delivr"
+        android:label="Delivr"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

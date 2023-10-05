@@ -40,7 +40,7 @@ class _afterSpalshState extends State<afterSpalsh> {
                   onLongPress: (){},
                     onPressed: (){
                       Navigator.push(context,
-                          MaterialPageRoute(builder: (context) => SignInPage()));
+                          MaterialPageRoute(builder: (context) => PhoneNumberPage()));
                     },
                     style: ElevatedButton.styleFrom(
                       primary: const Color(0xffFBAF02),
